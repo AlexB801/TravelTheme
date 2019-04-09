@@ -21,3 +21,6 @@ M.Autocomplete.init(ac, {
     "Europe": null,
   }
 });
+
+const mb = document.querySelectorAll('.materialboxed');
+M.Materialbox.init(mb, {});
